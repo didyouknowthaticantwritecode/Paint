@@ -1,3 +1,4 @@
+# This is practically my project.
 # Masoud Harati 2015
 # Room 149 Period 3
 # Breaking Bad paint
